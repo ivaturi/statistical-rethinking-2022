@@ -3,7 +3,7 @@
 
 
 
-#### Golems
+## Golems
 
 Scientific models are like [golems](https://en.wikipedia.org/wiki/Golem); constructs engineered for specific purposes. These are neither true nor false, and can be unyielding in their logic. Golems themselves aren't wise; they are each useful in particular contexts (which is why there are so many diverse golems). A decision tree is an example of a golem. 
 
@@ -12,7 +12,7 @@ It is possible to learn and practice statistical science by learning a lot of di
 What is needed is a unified theory of golem engineering: a set of foundational principles for designing, building, and refining context-specific statistical models or procedures. The goal of this course, then, is to learn how to re-think statistical inference as a set of such strategies, instead of a bunch of predefined golems.
 
 
-#### Rethinking
+## On falsifying hypotheses
 
 The goal of statistical inference is not to _test_ the [null hypothesis](https://en.wikipedia.org/wiki/Null_hypothesis)  (or alternately - to falsify the research hypothesis). Deductive falsification is nearly impossible because:
 
@@ -28,7 +28,23 @@ The goal of statistical inference is not to _test_ the [null hypothesis](https:/
 * Falsification is a consensus-driven activity. Scientific communities come to _regard_ certain hypotheses as false (such as the geocentric model of the universe) but this is done by consensus, and not always because of evidence. 
 
 
+## What now?
 
+Given a hypothesis, we know we can't really falsify it...so where do we go from here? One thing we _can_ focus on, is on the models that support (or not) the hypothesis. Why study models? Because we cant reliably predict the result of an intervention unless we understand _why_ something happens in the first place, and models are our way of answering the _why_. 
+
+We use models, then, to do mainly 3 things for us:
+
+* To help assess the hypothesis (to design inquiry)
+* To make sense of the data (to extract information)
+* To make predictions
+
+
+This course focuses on a few tools to help do the 3 things:
+
+* Bayesian data analysis
+* Model comparison
+* Multilevel models
+* Graphical causal models
 
 
 
