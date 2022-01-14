@@ -9,8 +9,3 @@ The original accompanying code for the course is in R, but since I'm more comfor
 
 **Course overview (from the website)**
 *Statistical Rethinking: A Bayesian Course with Examples in R and Stan* builds your knowledge of and confidence in making inferences from data. Reflecting the need for scripting in today's model-based statistics, the book pushes you to perform step-by-step calculations that are usually automated. This unique computational approach ensures that you understand enough of the details to make reasonable choices and interpretations in your own modeling work.
-
-
-
-
-
