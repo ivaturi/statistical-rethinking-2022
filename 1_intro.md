@@ -34,17 +34,19 @@ Given a hypothesis, we know we can't really falsify it...so where do we go from 
 
 We use models, then, to do mainly 3 things for us:
 
-* To help assess the hypothesis (to design inquiry)
+* To help assess the hypothesis (to design our inquiries so that the models can learn from the data)
 * To make sense of the data (to extract information)
 * To make predictions
 
-
 This course focuses on a few tools to help do the 3 things:
 
-* Bayesian data analysis
-* Model comparison
-* Multilevel models
-* Graphical causal models
+* **Bayesian data analysis**: essentially, counting the numbers of ways the data could happen according to our assumptions. This takes questions in the form of models, and answers them with probability distributions. Bayesian golems treat randomness as a property of information, not of the world (therefore, if we had enough information, we could predict anything). 
+
+* **Model comparison**: choosing between many plausible models (using _cross-validation_ and _information criteria_), specially when complex models are easily subject to problems of _overfitting_.
+	
+* **Multilevel models**:  models that contain other models (models have _parameters_ that can stand-in for other models); to address issues like overfitting, clustered observations, etc.
+
+* **Graphical causal models**: models for causal prediction (such as _Directed Acyclic Graphs_), which are useful when we use models to intervene in the world - because most everything can be represented by causal networks.
 
 
 
