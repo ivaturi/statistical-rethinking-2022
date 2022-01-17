@@ -11,4 +11,4 @@ The original accompanying code for the course is in R, but since I'm more comfor
 
 ## Notes
 
-* [Lecture 1](1_intro.md)
+* [Lecture 1](1_golem_prague.md)
