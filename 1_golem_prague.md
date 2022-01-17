@@ -1,6 +1,6 @@
 
 **Link to lecture**: https://www.youtube.com/watch?v=cclUd_HoRlo
-
+**Reading**: Chapter 1: the Golem of Prague
 
 
 ## Golems
@@ -42,11 +42,11 @@ This course focuses on a few tools to help do the 3 things:
 
 * **Bayesian data analysis**: essentially, counting the numbers of ways the data could happen according to our assumptions. This takes questions in the form of models, and answers them with probability distributions. Bayesian golems treat randomness as a property of information, not of the world (therefore, if we had enough information, we could predict anything). 
 
-* **Model comparison**: choosing between many plausible models (using _cross-validation_ and _information criteria_), specially when complex models are easily subject to problems of _overfitting_.
+* **Model comparison**: choosing between many plausible models (using _[cross-validation][ https://en.wikipedia.org/wiki/Cross-validation_(statistics)]_ and _information criteria_), specially when complex models are easily subject to problems of _overfitting_.
 	
 * **Multilevel models**:  models that contain other models (models have _parameters_ that can stand-in for other models); to address issues like overfitting, clustered observations, etc.
 
-* **Graphical causal models**: models for causal prediction (such as _Directed Acyclic Graphs_), which are useful when we use models to intervene in the world. Why? because we can't extract the _cause_ for data from the data itself. We need a models for causal inference, that help us:
+* **Graphical causal models**: models for causal prediction (such as _[Directed Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph_), which are useful when we use models to intervene in the world. Why? because we can't extract the _cause_ for data from the data itself. We need a models for causal inference, that help us:
 	* predict the consequences of an intervention
 	* guess the values or effects of missing observations from the data
 
