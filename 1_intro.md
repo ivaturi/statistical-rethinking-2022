@@ -46,7 +46,9 @@ This course focuses on a few tools to help do the 3 things:
 	
 * **Multilevel models**:  models that contain other models (models have _parameters_ that can stand-in for other models); to address issues like overfitting, clustered observations, etc.
 
-* **Graphical causal models**: models for causal prediction (such as _Directed Acyclic Graphs_), which are useful when we use models to intervene in the world - because most everything can be represented by causal networks.
+* **Graphical causal models**: models for causal prediction (such as _Directed Acyclic Graphs_), which are useful when we use models to intervene in the world. Why? because we can't extract the _cause_ for data from the data itself. We need a models for causal inference, that help us:
+	* predict the consequences of an intervention
+	* guess the values or effects of missing observations from the data
 
 
 
