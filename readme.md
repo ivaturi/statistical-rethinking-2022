@@ -11,4 +11,5 @@ The original accompanying code for the course is in R, but since I'm more comfor
 
 ## Notes
 
-* [Lecture 1](1_golem_prague.md)
+* [Lecture 1/chapter 1](1_golem_prague.md)
+* [Lecture 2/chapter 2](2_bayesian_inference.md)
