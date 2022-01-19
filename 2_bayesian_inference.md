@@ -1,7 +1,5 @@
 
-**Read**: Chapter 2 - Small worlds and large worlds
 
-**Watch**: Lecture 2 - Bayesian inference
 
 
 ## Intro
@@ -13,4 +11,16 @@
 * A central challenge of statistical modeling is distinquishing and navigating the two contexts (made specially difficult considering all models are essentially incomplete representations of the large world).
 
 
+## Garden of forking data
 
+Bayesian analysis - at its core - works by counting all possibilities to make inferences about specific scenarios (the name is a reference to Borges's essay about a book where, starting from a common point, every possible sequence takes place simultaneously).
+
+Counting all possibilities lets us rank our hypothesis _quantitatively_, based on both the assumptions and the data available to us. In the _small world_, this can guarantee the best possible inference based on the available information.
+
+
+
+## Resources
+
+* Chapter 2 - Small worlds and large worlds 
+* [Lecture 2 - Bayesian inference](https://www.youtube.com/watch?v=guTdrfycW2Q)  
+* The Garden of Forking Paths, by Jorge Luis Borges
