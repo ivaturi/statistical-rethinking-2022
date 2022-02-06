@@ -17,6 +17,12 @@ Bayesian analysis - at its core - works by counting all possibilities to make in
 
 Counting all possibilities lets us rank our hypothesis _quantitatively_, based on both the assumptions and the data available to us. In the _small world_, this can guarantee the best possible inference based on the available information.
 
+**Rules for bayesian updating**
+
+1. State a causal model that explains the observations (given each possible explanation)
+2. For each explanation, count the number of ways the data could arise
+3. Estimate relative possibility from (2), as a relative value
+
 
 
 ## Resources
