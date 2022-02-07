@@ -1,6 +1,6 @@
 
 
-
+[Lecture 2 - Bayesian inference](https://www.youtube.com/watch?v=guTdrfycW2Q)  
 
 ## Intro
 
@@ -28,5 +28,4 @@ Counting all possibilities lets us rank our hypothesis _quantitatively_, based o
 ## Resources
 
 * Chapter 2 - Small worlds and large worlds 
-* [Lecture 2 - Bayesian inference](https://www.youtube.com/watch?v=guTdrfycW2Q)  
 * The Garden of Forking Paths, by Jorge Luis Borges
