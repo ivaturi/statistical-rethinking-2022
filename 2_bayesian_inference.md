@@ -23,6 +23,12 @@ Counting all possibilities lets us rank our hypothesis _quantitatively_, based o
 2. For each explanation, count the number of ways the data could arise
 3. Estimate relative possibility from (2), as a relative value
 
+**Characteristics of bayesian analysis**
+
+- There is no _minimum_ sample size.
+- The shape of _the curve_ embodies the sample size.
+- The estimate is the curve; point estimates don't play a big role. All calculations and estimation using the bayesian model must always use the entire distribution.
+- There is no one _true_ interval
 
 
 ## Resources
